@@ -1,0 +1,6 @@
+{
+  "name": "Creatie — Gen Z Creative Portfolio",
+  "description": "Playful, interactive portfolio inspired by Framer Creatie and Nudge templates for Gen Z digital designers and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
