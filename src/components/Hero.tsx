@@ -136,7 +136,7 @@ export const Hero: React.FC<HeroProps> = ({
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-4xl sm:text-6xl md:text-7xl font-extrabold font-display tracking-tight text-neutral-950 dark:text-white leading-[1.08] mb-6 max-w-3xl"
         >
-          Hey, I&apos;m <span className="underline decoration-wavy decoration-[#86EFAC]/80 underline-offset-4">Alya</span>.{' '}
+          Hey, I&apos;m <span className="underline decoration-wavy decoration-[#86EFAC]/80 underline-offset-4">Eka</span>.{' '}
           <span className="block text-neutral-800 dark:text-neutral-200 font-semibold text-3xl sm:text-5xl md:text-6xl mt-2">
             Crafting playful, tactile digital products.
           </span>
@@ -186,7 +186,7 @@ export const Hero: React.FC<HeroProps> = ({
             ) : (
               <>
                 <Copy className="w-4 h-4 text-neutral-500 dark:text-neutral-400" />
-                <span>hello@alyakirana.design</span>
+                <span>ristinaesb@gmail.com</span>
               </>
             )}
           </button>

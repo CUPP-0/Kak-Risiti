@@ -61,10 +61,10 @@ export const Navbar: React.FC<NavbarProps> = ({
           className="flex items-center gap-2 pr-1 group"
         >
           <div className="w-8 h-8 rounded-full bg-neutral-900 dark:bg-white text-white dark:text-neutral-950 flex items-center justify-center font-bold text-sm tracking-tight transition-transform group-hover:scale-105">
-            A<span className="text-[#86EFAC] text-xs">✦</span>
+            R<span className="text-[#86EFAC] text-xs">✦</span>
           </div>
           <span className="font-bold text-sm tracking-tight hidden md:inline text-neutral-900 dark:text-white font-display">
-            Alya Kirana
+            Ristina Eka
           </span>
         </a>
 

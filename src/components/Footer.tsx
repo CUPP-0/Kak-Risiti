@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <div className="flex items-center gap-2 font-display font-black text-xl sm:text-2xl tracking-tight text-neutral-900 dark:text-white">
-              <span>Alya Kirana</span>
+              <span>Ristina Eka</span>
               <span className="text-[#86EFAC]">✦</span>
               <span className="text-xs font-mono font-medium px-2 py-0.5 rounded-full bg-neutral-100 dark:bg-neutral-800 text-neutral-600 dark:text-neutral-300">
                 Creatie &amp; Nudge Edition

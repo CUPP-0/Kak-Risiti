@@ -1,15 +1,15 @@
 import { CaseStudy, StickerItem, TestimonialItem, BagItem, ExperienceItem } from '../types';
 
 export const PERSONAL_INFO = {
-  name: 'Alya Kirana',
-  role: 'Product & Visual Designer',
+  name: 'Ristina Eka Salsabila',
+  role: 'Programming & Designer',
   pronouns: 'she/her',
-  location: 'Jakarta, ID / Remote Worldwide',
+  location: 'Bogor, ID / Remote Worldwide',
   timezone: 'GMT+7',
   status: 'Available for freelance & full-time roles',
   bio: 'A 22-year-old Gen Z designer bridging human emotion with tactile, interactive digital products. Formerly crafting interfaces at Studio Nudge and experimenting with creative tools at Creatie Lab.',
-  email: 'hello@alyakirana.design',
-  avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop',
+  email: 'ristinaesb@gmail.com',
+  avatar: 'https://res.cloudinary.com/dnzhewrrx/image/upload/v1789012862/Gemini_Generated_Image_qpefsvqpefsvqpef_hjzped.jpg',
   socials: [
     { name: 'Instagram', url: 'https://instagram.com', handle: '@alyakirana.design' },
     { name: 'Twitter / X', url: 'https://twitter.com', handle: '@alyakirana' },
