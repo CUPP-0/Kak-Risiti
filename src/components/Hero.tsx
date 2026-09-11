@@ -102,7 +102,7 @@ export const Hero: React.FC<HeroProps> = ({
           {/* Time & Location Pill */}
           <div className="hidden sm:inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/80 dark:bg-neutral-900/80 border border-neutral-200/80 dark:border-neutral-800 text-xs font-medium text-neutral-600 dark:text-neutral-400 backdrop-blur-xs">
             <MapPin className="w-3 h-3 text-neutral-400" />
-            <span>Jakarta, ID</span>
+            <span>Bogor, ID</span>
             <span className="text-neutral-300 dark:text-neutral-700">•</span>
             <Clock className="w-3 h-3 text-neutral-400" />
             <span>{currentTime || '10:30 AM'} (GMT+7)</span>
@@ -125,7 +125,7 @@ export const Hero: React.FC<HeroProps> = ({
             />
           </div>
           <div className="absolute -bottom-2 -right-2 bg-yellow-300 text-neutral-900 text-[11px] font-extrabold px-2 py-0.5 rounded-full shadow-sm border border-neutral-800 rotate-6">
-            Gen Z ✦
+            QUEEN ✦
           </div>
         </motion.div>
 
@@ -136,9 +136,9 @@ export const Hero: React.FC<HeroProps> = ({
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-4xl sm:text-6xl md:text-7xl font-extrabold font-display tracking-tight text-neutral-950 dark:text-white leading-[1.08] mb-6 max-w-3xl"
         >
-          Hey, I&apos;m <span className="underline decoration-wavy decoration-[#86EFAC]/80 underline-offset-4">Eka</span>.{' '}
+          Hey, I&apos;m <span className="underline decoration-wavy decoration-[#86EFAC]/80 underline-offset-4">Yayau</span>.{' '}
           <span className="block text-neutral-800 dark:text-neutral-200 font-semibold text-3xl sm:text-5xl md:text-6xl mt-2">
-            Crafting playful, tactile digital products.
+            she codes & she reads & she clutches.
           </span>
         </motion.h1>
 

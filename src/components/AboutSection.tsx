@@ -70,12 +70,10 @@ export const AboutSection: React.FC = () => {
   };
 
   const skills = [
-    { name: 'Figma & Design Systems', level: 'Expert', color: '#EDE9FE', darkColor: '#581C87' },
-    { name: 'Framer & Interactive Web', level: 'Advanced', color: '#DCFCE7', darkColor: '#14532D' },
-    { name: 'Mobile Interaction & Haptics', level: 'Advanced', color: '#FEF08A', darkColor: '#713F12' },
-    { name: 'Spline 3D & Micro-animations', level: 'Proficient', color: '#FCE7F3', darkColor: '#831843' },
-    { name: 'Design Tokens & Tailwind', level: 'Proficient', color: '#E0F2FE', darkColor: '#0C4A6E' },
-    { name: 'Rapid Prototyping in React', level: 'Working Knowledge', color: '#F3E8FF', darkColor: '#581C87' }
+    { name: 'Canva & Graphic Design', level: 'Expert', color: '#EDE9FE', darkColor: '#581C87' },
+    { name: 'Java Script & Interactive Web', level: 'Advanced', color: '#DCFCE7', darkColor: '#14532D' },
+    { name: 'Python & Data Analys', level: 'Advanced', color: '#FEF08A', darkColor: '#713F12' },
+    { name: 'PHP & Full Stack Developer', level: 'Proficient', color: '#FCE7F3', darkColor: '#831843' },
   ];
 
   const { isPlaying, currentSong, activeLyricIndex } = playerState;
@@ -119,13 +117,13 @@ export const AboutSection: React.FC = () => {
             </div>
 
             <p className="text-neutral-700 dark:text-neutral-300 text-sm sm:text-base leading-relaxed">
-              I believe great design isn&apos;t just about making things look clean; it&apos;s about creating an intuitive, emotional connection. As a Gen Z designer, I gravitate toward interfaces that have personality, tactile sound cues, and thoughtful micro-interactions rather than sterile templates.
+              Possesses a keen eye for detail and a strong interest in web development, data analysis, and graphic design. Experienced in building responsive websites and applications through academic projects and internships, with proficiency in front-end technologies and graphic design tools.
             </p>
 
             <div className="pt-2 flex flex-wrap gap-2 text-xs font-semibold text-neutral-600 dark:text-neutral-300">
-              <span className="px-3 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-full">📍 Jakarta, Indonesia</span>
-              <span className="px-3 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-full">🍵 Ceremonial Matcha Addict</span>
-              <span className="px-3 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-full">📸 Film Photography</span>
+              <span className="px-3 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-full">📍 Bogor, Indonesia</span>
+              <span className="px-3 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-full">🍵 Coffe</span>
+              <span className="px-3 py-1 bg-neutral-100 dark:bg-neutral-800 rounded-full">📸 Design Graphic</span>
             </div>
           </div>
 

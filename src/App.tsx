@@ -105,12 +105,6 @@ export default function App() {
       {/* About Me / Behind the Pixels with Hindia Player embed */}
       <AboutSection />
 
-      {/* Services & Collaboration Scope */}
-      <ServicesEstimator onBookService={handleBookService} />
-
-      {/* Client Testimonials */}
-      <TestimonialsSection />
-
       {/* Contact Section */}
       <ContactSection prefilledService={prefilledService} />
 
